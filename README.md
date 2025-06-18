@@ -2,6 +2,9 @@
 
 Rembug adalah aplikasi web media sosial yang memungkinkan pengguna untuk berbagi pemikiran dan momen mereka melalui gambar dan teks. Proyek ini dibangun dengan framework Laravel dan menggunakan MongoDB sebagai databasenya, memberikan platform yang dinamis dan interaktif bagi pengguna untuk terhubung dan berdiskusi.
 
+![Image](https://github.com/user-attachments/assets/cc53a2bd-9004-46f2-8787-47fe613cc86f)
+![Image](https://github.com/user-attachments/assets/3fbd7e7c-ba75-44f3-a549-4dd00d57b954)
+
 ## Fitur Utama
 
 * **Autentikasi Pengguna:** Sistem pendaftaran dan login yang aman untuk pengguna.
