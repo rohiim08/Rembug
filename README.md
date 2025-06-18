@@ -7,9 +7,9 @@ Rembug adalah aplikasi web media sosial yang memungkinkan pengguna untuk berbagi
 * **Autentikasi Pengguna:** Sistem pendaftaran dan login yang aman untuk pengguna.
 * **Berbagi Postingan:** Pengguna dapat membuat, mengedit, dan menghapus postingan dengan gambar dan caption.
 * **Sistem Interaksi:**
-    * **Suka:** Pengguna dapat menyukai dan tidak menyukai postingan.
-    * **Komentar:** Pengguna dapat berkomentar di postingan dan menghapus komentar mereka sendiri.
-    * **Ikuti:** Sistem mengikuti (follow/unfollow) untuk tetap terhubung dengan pengguna lain.
+    * **Like:** Pengguna dapat menyukai dan tidak menyukai postingan.
+    * **Coment:** Pengguna dapat berkomentar di postingan dan menghapus komentar mereka sendiri.
+    * **Follow:** Sistem mengikuti (follow/unfollow) untuk tetap terhubung dengan pengguna lain.
 * **Profil Pengguna:** Halaman profil yang dapat disesuaikan dengan gambar profil, bio, dan galeri postingan.
 * **Pencarian:** Fungsi pencarian untuk menemukan pengguna dan postingan.
 
